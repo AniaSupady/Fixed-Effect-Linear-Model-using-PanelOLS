@@ -1,4 +1,6 @@
-# Fixed-Effect-Linear-Model-using-PanelOLS
+# Fixed-Effect-Linear-Model-using-PanelOLS   
+
+link to Colab: https://github.com/AniaSupady/Fixed-Effect-Linear-Model-using-PanelOLS/blob/main/Modeling_demand_response_with_PanelOLS.ipynb
 
 
 
